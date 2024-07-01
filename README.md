@@ -1,1 +1,1 @@
-## Hello
+Hello, I'm Jeff McCullen, a data scientist and software engineer with experience in the aerospace industry and Military Health System. I hold a master's degree in computer science, focusing on data science and machine learning applications in healthcare. Outside of work, I enjoy caving, rock climbing, biking, and playing guitar and piano.
